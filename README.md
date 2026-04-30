@@ -1,4 +1,4 @@
-imanthonypeter# 💫 About Me:
+About Me:
 I'm a fullstack developer building real-world applications using React, React Native, and Supabase. I'm passionate about creating scalable solutions and consistently shipping projects. I also have a strong interest in cryptocurrency and the future of digital finance.
 
 
