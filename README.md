@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Anthony%20Peter&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20React%20%C2%B7%20React%20Native%20%C2%B7%20Supabase&descAlignY=58&descSize=18&descColor=a78bfa" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ant%C3%B3nio%20Pedro&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20React%20%C2%B7%20Node.js%20%C2%B7%20Supabase&descAlignY=58&descSize=18&descColor=a78bfa" />
 
 </div>
 
@@ -9,13 +9,37 @@
 
 ## 👋 About Me
 
+My name is **António Pedro** — known internationally as **Anthony Peter**.  
 I'm a **Fullstack Developer** focused on building real-world, production-ready applications.  
-I work primarily with **React**, Node.js, Postgres, and **Supabase** - from idea to deployed product.
+I work primarily with **React**, **React Native**, **Node.js**, and **Supabase** — from idea to deployed product.
 
 - 🚀 Passionate about shipping projects that actually solve problems
 - 📱 Building for both **web** and **mobile** (iOS & Android via Expo)
 - 🔗 Strong interest in **cryptocurrency** and decentralized finance
 - 🌍 Always learning, always building
+
+---
+
+## 🎯 Current Focus
+
+> Building fullstack apps with a modern, scalable and production-ready architecture.
+
+<div align="center">
+
+| Layer | Tech |
+|:---:|:---:|
+| 🖥️ **Frontend** | React · React Native · TypeScript |
+| ⚙️ **Backend** | Node.js · Express.js |
+| 🗄️ **Database** | PostgreSQL · Supabase |
+| ☁️ **Deploy** | Vercel · Render |
+
+</div>
+
+```
+Frontend  →  React + TypeScript
+Backend   →  Node.js + Express.js
+Database  →  PostgreSQL via Supabase
+```
 
 ---
 
@@ -49,6 +73,7 @@ I work primarily with **React**, Node.js, Postgres, and **Supabase** - from idea
 
 ### ⚙️ Backend & Databases
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -69,8 +94,7 @@ I work primarily with **React**, Node.js, Postgres, and **Supabase** - from idea
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-lake-h4yixl3xc7.vercel.app/api?username=imanthonypeter&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="180" />
-<img src="https://github-readme-stats-sigma-lake-h4yixl3xc7.vercel.app/api/top-langs/?username=imanthonypeter&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180" />
+<img src="https://github-readme-stats-sigma-lake-h4yixl3xc7.vercel.app/api?username=imanthonypeter&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
 
 </div>
 
@@ -82,11 +106,21 @@ I work primarily with **React**, Node.js, Postgres, and **Supabase** - from idea
 
 ---
 
+## 🗣️ Most Used Languages
+
+<div align="center">
+
+<img src="https://github-readme-stats-sigma-lake-h4yixl3xc7.vercel.app/api/top-langs/?username=imanthonypeter&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10" />
+
+</div>
+
+---
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=imanthonypeter&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)
+![Trophies](https://github-profile-trophy.screw-hand.vercel.app/?username=imanthonypeter&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)
 
 </div>
 
